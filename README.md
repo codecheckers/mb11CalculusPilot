@@ -10,15 +10,14 @@ This repository contains the data and code for our paper:
 
 <!--
 > Authors, (YYYY). _Multiproxy analysis exploring patterns of diet and disease in dental calculus and skeletal remains from a 19th century Dutch population_. Name of journal/book <https://doi.org/xxx/xxx>
-
-Our pre-print is online here:
+&#10;Our pre-print is online here:
 -->
 
 > Bartholdy, B.P., Hasselstrøm, J.B., Sørensen, L.K., Casna, M.,
 > Hoogland, M., Historisch Genootschap Beemster, & Henry, A.G. (2023).
 > *Multiproxy analysis exploring patterns of diet and disease in dental
 > calculus and skeletal remains from a 19th century Dutch population*.
-> Zenodo, Accessed 26 Sep 2023. Online at
+> Zenodo, Accessed 20 Mar 2024. Online at
 > <https://doi.org/10.5281/zenodo.7649151>
 
 ### How to cite
@@ -27,8 +26,7 @@ Use the above paper to cite this compendium.
 
 <!--
 Please cite this compendium as:
-
-> Bartholdy, B.P., Hasselstrøm, J.B., Sørensen, L.K., Casna, M., Hoogland, M., Historisch Genootschap Beemster, & Henry, A.G., (2023). _Compendium of R code and data for Multiproxy analysis exploring patterns of diet and disease in dental calculus and skeletal remains from a 19th century Dutch population_. Accessed 26 Sep 2023. Online at <https://doi.org/10.5281/zenodo.7649825>
+&#10;> Bartholdy, B.P., Hasselstrøm, J.B., Sørensen, L.K., Casna, M., Hoogland, M., Historisch Genootschap Beemster, & Henry, A.G., (2024). _Compendium of R code and data for Multiproxy analysis exploring patterns of diet and disease in dental calculus and skeletal remains from a 19th century Dutch population_. Accessed 20 Mar 2024. Online at <https://doi.org/10.5281/zenodo.7649825>
 -->
 
 ## Contents
