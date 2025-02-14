@@ -7,6 +7,5 @@
 *.pdf
 /.luarc.json
 /*.R
-**/_output
 **/_archive
 /.quarto/
